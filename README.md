@@ -19,14 +19,14 @@ This repository is a collection of my certifications in data anaylsis / data war
     - Create data integration workflows using prominent open source software;
     - Reflect on the role of change data, refresh constraints, refresh frequency trade-offs, and data quality goals in data integration process design
     - Perform operations on pivot tables to satisfy typical business analysis requests using prominent open source software
-- [Collection of my assignment works for "Data Warehouse Concepts, Design and Data Integration" program] (https://github.com/KaiFormosa/Data_Warehouse_Concepts_Design_and_Data_Integration)
+- [Collection of my assignment works for "Data Warehouse Concepts, Design and Data Integration" program](https://github.com/KaiFormosa/Data_Warehouse_Concepts_Design_and_Data_Integration)
 
 ---
 
 ## "Relational Database Support for Data Warehouses" certification program by University of Colorado through Coursera
 
 - The gola of this course is to prepare students with the skills of using analytical elements of SQL for answering business intelligence questions. Through this course, students learn features of relational database management systems for managing summary data commonly used in business intelligence reporting. The course also covers storage architectures, scalable parallel processing, data governance, and big data impacts.
-- [Collection of my assignment works for "Relational Database Support for Data Warehouses" program] (https://github.com/KaiFormosa/Relational_Database_Support_for_Data_Warehouses)
+- [Collection of my assignment works for "Relational Database Support for Data Warehouses" program](https://github.com/KaiFormosa/Relational_Database_Support_for_Data_Warehouses)
 
 ---
 
