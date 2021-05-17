@@ -23,6 +23,13 @@ This repository is a collection of my certifications in data anaylsis / business
 
 ---
 
+## "Business Intelligence Concepts, Tools and Applications" certification program by University of Colorado through Coursera
+
+- The goal of this program is to prepare students with the skills for using data warehouses for business intelligence purposes. The course gives an overview of how business intelligence technologies can support decision making across business sectors. These technologies have had a profound impact on corporate strategy, performance and competitiveness and broadly encompass decision support systems, business intelligence systems and visual analytics.
+- [Collection of my assignment works for "Business Intelligence Concepts, Tools and Applications" program](https://github.com/KaiFormosa/Business_Intelligence_Concepts_Tools_and_Applications)
+
+---
+
 ## "Relational Database Support for Data Warehouses" certification program by University of Colorado through Coursera
 
 - The goal of this program is to prepare students with the skills of using analytical elements of SQL for answering business intelligence questions. Through this program, students learn features of relational database management systems for managing summary data commonly used in business intelligence reporting. The program also covers storage architectures, scalable parallel processing, data governance, and big data impacts.
