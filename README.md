@@ -1,5 +1,5 @@
 # Certifications
-This repository is a collection of my certifications in data anaylsis / data warehouse / machine learning / SAP
+This repository is a collection of my certifications in data anaylsis / business intelligence / data warehouse / machine learning / SAP
 
 ---
 
