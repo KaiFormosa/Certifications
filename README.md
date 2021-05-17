@@ -13,7 +13,7 @@ This repository is a collection of my certifications in data anaylsis / data war
 
 ## "Data Warehouse Concepts, Design and Data Integration" certification program by University of Colorado through Coursera
 
-- The goal of this course is to prepare students with the design experience, software background, and organizational context to succeed with data warehouse development projects. Through this course, students learn to:
+- The goal of this program is to prepare students with the design experience, software background, and organizational context to succeed with data warehouse development projects. Through this program, students learn to:
     - Evaluate an organization for data warehouse maturity and business architecture alignment
     - Create a data warehouse design and reflect on alternative design methodologies and design goals
     - Create data integration workflows using prominent open source software;
@@ -25,8 +25,15 @@ This repository is a collection of my certifications in data anaylsis / data war
 
 ## "Relational Database Support for Data Warehouses" certification program by University of Colorado through Coursera
 
-- The gola of this course is to prepare students with the skills of using analytical elements of SQL for answering business intelligence questions. Through this course, students learn features of relational database management systems for managing summary data commonly used in business intelligence reporting. The course also covers storage architectures, scalable parallel processing, data governance, and big data impacts.
+- The goal of this program is to prepare students with the skills of using analytical elements of SQL for answering business intelligence questions. Through this program, students learn features of relational database management systems for managing summary data commonly used in business intelligence reporting. The program also covers storage architectures, scalable parallel processing, data governance, and big data impacts.
 - [Collection of my assignment works for "Relational Database Support for Data Warehouses" program](https://github.com/KaiFormosa/Relational_Database_Support_for_Data_Warehouses)
+
+---
+
+## "Database Management Essentials" certification program by University of Colorado through Coursera
+
+- The goal of this program is to provide the foundation for a career in database development, data warehousing, or business intelligence. Through this program, students learn to create relational databases, write SQL statements to extract information to satisfy business reporting requests, create entity relationship diagrams (ERDs) to design databases, and analyze table designs for excessive redundancy.
+- [Collection of my assignment works for "Database Management Essentials" program](https://github.com/KaiFormosa/Database_Management_Essentials)
 
 ---
 
@@ -38,7 +45,7 @@ This repository is a collection of my certifications in data anaylsis / data war
 
 ---
 
-## "Machine Learning" certification program by Stanford University and Coursera
+## "Machine Learning" certification program by Stanford University through Coursera
 
 - This program by Andrew Ng provides a broad introduction to machine learning, data-mining and statistical pattern recognition. What I like most about this program is that it teaches theoretical underpinnings of machine learning and provides practical know-how needed to apply machine learning techniques.
 - Topics covered in this program:
@@ -48,7 +55,7 @@ This repository is a collection of my certifications in data anaylsis / data war
 
 ---
 
-## "Querying Microsoft SQL Server with Transact-SQL" certification course by Udemy
+## "Querying Microsoft SQL Server with Transact-SQL" certification program by Udemy
 
 - This program helps students learn how to handle Transact-SQL - Microsoft's extension to SQL. It goes from a basic introduction to SQL statements all the way to speed optimization and detailed looks at special cases. Topics covered in this program include:
     - Create and alter tables using T-SQL syntax
